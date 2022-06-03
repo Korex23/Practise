@@ -1,0 +1,26 @@
+.table{
+    border: 2px solid blueviolet;
+
+}
+td{
+    border: 2px solid blueviolet;
+}
+th{
+    border: 2px solid blueviolet;
+}
+
+a:link{
+    text-decoration: none;
+    color: blue;
+}
+a:visited{
+    color: crimson;
+}
+a:hover{
+    font-size: larger;
+    color:yellow;
+
+}
+a:active{
+    color: cadetblue;
+}
